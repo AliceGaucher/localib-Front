@@ -1,0 +1,23 @@
+.lienLogoNavBar {
+    display: flex
+}
+
+.lienNavBar {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.logoNavBar {
+    width: 200px;
+    height: 200px;
+}
+
+.titreLienNavBar {
+    text-decoration: none;
+    color:inherit;
+}
+
+h1 {
+    font-size:xx-large;
+}

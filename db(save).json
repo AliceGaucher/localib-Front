@@ -1,0 +1,37 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "nom": "Dupont",
+      "prenom": "Martin",
+      "telephone": "06.01.02.03.04",
+      "naissance": "19-07-1870",
+      "email": "dupont.martin70@email.com"
+    }
+  ],
+  "vehicules": [
+    {
+      "id": 1,
+      "marque": "Renault",
+      "modele": "AG 9 CV",
+      "immatriculation": "TS-1914-PG",
+      "etat": "Très bon",
+      "prix": "11 920€",
+      "disponibilite": "Disponible",
+      "type": "Voiture"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "nom": "Dupont",
+      "prenom": "Martin",
+      "telephone": "06.01.02.03.04",
+      "immatriculation": "TS-1914-PG",
+      "etat": "Très bon",
+      "debut": "28-07-1914",
+      "fin": "11-11-1918",
+      "prix": "11 920€"
+    }
+  ]
+}

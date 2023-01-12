@@ -1,0 +1,20 @@
+h1 {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.image {
+    height: 300px;
+    size: 200px;
+}
+
+.imagePageAccueil {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
